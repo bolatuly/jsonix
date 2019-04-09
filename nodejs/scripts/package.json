@@ -1,5 +1,5 @@
 {
-	"name" : "jsonix",
+	"name" : "@mangosystem/jsonix",
 	"version" : "3.0.0",
 	"description" : "Jsonix (JSON interfaces for XML) is a JavaScript library which allows converting between XML and JSON structures.",
 	"keywords" : [ "json", "xml", "unmarshal", "unmarshalling", "marshal",
